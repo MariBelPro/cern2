@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "find_lC.C": "cpp",
+        "RawC.C": "cpp",
+        "FlatC.C": "cpp",
+        "Raw.C": "cpp",
+        "RecentringC.C": "cpp",
+        "Recentring.C": "cpp",
+        "Flat.C": "cpp",
+        "v1_TPC.C": "cpp",
+        "cmath": "cpp",
+        "v2_TPC.C": "cpp"
+    }
+}

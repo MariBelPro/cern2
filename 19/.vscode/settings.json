@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "epd_eta.C": "cpp",
+        "FemtoDstAnalizer.C": "cpp",
+        "run_analizer.C": "cpp",
+        "epd_pt.C": "cpp",
+        "epd.C": "cpp",
+        "cmath": "cpp",
+        "v1.C": "cpp",
+        "run_analisis.C": "cpp",
+        "functional": "cpp",
+        "new": "cpp"
+    }
+}
